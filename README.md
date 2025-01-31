@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-<p>Seja Bem Vindo Ao Meu Perfil, Espero que Goste e Veja Todo o Meu Esforço De Amar A Programação, Que Foi Todo Colocado Aqui</p>
+<p>Seja Bem Vindo Ao Meu Perfil, Espero que Goste e Veja Todo o Esforço Dos Meus Estudos! Obrigado Pelo tempo que você tirou para vir até aqui </p>
 
 
 
