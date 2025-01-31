@@ -73,9 +73,8 @@
   />
 
 </p>
-<br/>
-<br/>
-<p> VEJA MEUS TRABALHOS AQUI EMBAIXO 👇👇👇
+
+
 
 
 <!--
