@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Emanoel Cariolando
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FrontEnd`**
 
 
 
