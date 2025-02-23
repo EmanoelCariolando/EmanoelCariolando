@@ -40,7 +40,7 @@
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://vetores.org/wp-content/uploads/typescript.png" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" 
 />
 
 <img 
