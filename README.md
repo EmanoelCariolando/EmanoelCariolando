@@ -34,6 +34,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://vetores.org/wp-content/uploads/typescript.png" 
+/>
 
 <img 
     align="left" 
@@ -69,14 +77,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 </p>
 
 
