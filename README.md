@@ -36,8 +36,8 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" 
