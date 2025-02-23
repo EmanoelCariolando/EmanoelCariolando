@@ -69,7 +69,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
 <img 
     align="left" 
     alt="React"
@@ -78,6 +77,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+</p>
+
 
 
 
