@@ -60,7 +60,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?EmanoelCariolando=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?EmanoelCariolando=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
