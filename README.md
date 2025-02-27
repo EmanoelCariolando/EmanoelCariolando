@@ -66,7 +66,6 @@
 <br/>
 
 <p>
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -84,7 +83,6 @@
 
 </p>
 
-</p>
 
 
 
