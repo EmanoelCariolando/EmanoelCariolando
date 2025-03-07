@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-<p>Seja Bem Vindo Ao Meu Perfil, Espero que Goste e Veja Todo o Esforço Dos Meus Estudos! Obrigado Pelo tempo que você tirou para vir até aqui. Decidi Que Apartir de 2025 Iria Colocar Todos Os Meus Estudos Expostos, era para ter feito isso antes eu sei mas vamos lá!</p>
+<p>Programador Front-End</p>
 
 
 
