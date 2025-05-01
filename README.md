@@ -66,7 +66,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" 
+    src="https://static.cdnlogo.com/logos/p/3/python.svg" 
 />
 
 
