@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-<p>Programador Front-End</p>
+<p>Programador FullStack</p>
 
 
 
