@@ -73,14 +73,6 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluent/512/node-js.png" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" 
-/>
 
 
 
