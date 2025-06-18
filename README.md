@@ -70,7 +70,7 @@
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 30px;" 
     src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" 
 />
 
