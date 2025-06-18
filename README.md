@@ -71,7 +71,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" 
+    src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" 
 />
 
 
