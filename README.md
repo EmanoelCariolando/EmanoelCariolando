@@ -7,7 +7,7 @@
  com React. Desde 2021, dedico-me à programação, iniciando com o
  desenvolvimento de mods para jogos e, ao longo do tempo, expandindo meus
  conhecimentos para o desenvolvimento web e sistemas mais complexos
- Utilizando Back-End</p>
+ Utilizando Back-End e Android</p>
 
 
 
