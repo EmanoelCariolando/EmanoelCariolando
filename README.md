@@ -79,7 +79,7 @@
     title="Git"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.vexels.com%2Fpng-svg%2Fprevisualizar%2F139556%2Flogotipo-android&psig=AOvVaw20TDsBHaFqM6zplJjltS97&ust=1750766360966000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiX2Ye_h44DFQAAAAAdAAAAABAM" 
+    src="https://images.vexels.com/media/users/3/139556/isolated/svg/1718a076e29822051df8bcf8b5ce1124.svg" 
 />
 
 
