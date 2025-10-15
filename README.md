@@ -3,6 +3,7 @@
   <img src="Banner3.png" alt="Banner - Emanoel Cariolando" width="100%">
 </div>
 
+
 **Desenvolvedor Full Stack** apaixonado por tecnologia e desafios.  
 Atualmente com foco em **Back-End (Java + Spring Boot)**, mas mantendo forte atuação no **Front-End com React**.
 
