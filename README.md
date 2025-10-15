@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.png" alt="Banner - Emanoel Cariolando" width="100%">
+  <img src="Banner.png" alt="Banner - Emanoel Cariolando" width="100%">
 </div>
 
 # 👨‍💻 Emanoel Cariolando
