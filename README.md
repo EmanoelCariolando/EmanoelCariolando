@@ -53,7 +53,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/emanoel-cariolando-3262ba27b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
@@ -63,7 +63,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
   </a>
 
   <!-- Email -->
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:emanoelcariolando@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
