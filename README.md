@@ -53,7 +53,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/emanoel-cariolando-3262ba27b/)" target="_blank">
+  <a href="[[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/emanoel-cariolando-3262ba27b/)](https://www.linkedin.com/in/emanoel-cariolando-3262ba27b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
