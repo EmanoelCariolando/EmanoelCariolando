@@ -1,113 +1,58 @@
 # 👨‍💻 Emanoel Cariolando
 
-**`Programador Full-Stack`**
+**Desenvolvedor Full Stack** apaixonado por tecnologia e desafios.  
+Atualmente com foco em **Back-End (Java)**, mas mantendo forte atuação no **Front-End com React**.
 
-<p> Desenvolvedor Full Stack apaixonado e determinado, atualmente com foco no
- Back-End utilizando Java, mas mantendo ativa a minha atuação no Front-End
- com React. Desde 2021, dedico-me à programação, iniciando com o
- desenvolvimento de mods para jogos e, ao longo do tempo, expandindo meus
- conhecimentos para o desenvolvimento web e sistemas mais complexos
- Utilizando Back-End e Android</p>
-
-
+Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvimento de **mods para jogos** e, ao longo do tempo, expandindo meus conhecimentos para **sistemas web e mobile**, utilizando **Java, Node.js, React e Android**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" 
-/>
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static.cdnlogo.com/logos/p/3/python.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://images.vexels.com/media/users/3/139556/isolated/svg/1718a076e29822051df8bcf8b5ce1124.svg" 
-/>
+---
 
+## 📊 Estatísticas do GitHub
 
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelCariolando&show_icons=true&theme=tokyonight)
 
+</div>
 
+---
 
+## 💡 Sobre mim
 
+- 🔭 Foco atual: **Back-End com Java**
+- ⚙️ Explorando também: **React e Android**
+- 🎮 Comecei desenvolvendo **mods para jogos**
+- 📚 Sempre buscando novos desafios e aprendizados
 
-<br/>
-<br/>
+---
 
-<p>
+## 📫 Contato
 
+📧 **emanocariolando@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/seu-perfil) • 🐙 [GitHub](https://github.com/EmanoelCariolando)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
-
-
-
-
-
+⭐ *“Código limpo é como poesia: direto, elegante e fácil de entender.”*  
 
 
 <!--
