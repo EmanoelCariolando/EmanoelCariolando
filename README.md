@@ -48,10 +48,31 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-## 📫 Contato
+<h3 align="center">🌐 Conecte-se comigo</h3>
 
-📧 **emanocariolando@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/seu-perfil) • 🐙 [GitHub](https://github.com/EmanoelCariolando)
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/EmanoelCariolando" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://seu-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+
+</div>
 
 ---
 
