@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/EmanoelCariolando/EmanoelCariolando/blob/main/black%20yellow%20minimalist%20Idea%20Logo.png" alt="Emanoel Cariolando" width="100%">
+  <img src="./black%20yellow%20minimalist%20Idea%20Logo.png" alt="Emanoel Cariolando" width="100%">
 </div>
-
 ---
 
 # 👨‍💻 Emanoel Cariolando
