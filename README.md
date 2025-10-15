@@ -44,7 +44,6 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmanoelCariolando&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&layout=compact&theme=tokyonight" height="165">
 </div>
 
 ---
