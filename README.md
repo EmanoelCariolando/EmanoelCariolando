@@ -1,9 +1,7 @@
-<!-- Banner estilo LinkedIn -->
-<div align="center">
-  <img src="./White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png" alt="Banner - Emanoel Cariolando" width="100%">
-</div>
 
----
+<div align="center">
+  <img src="banner.png" alt="Banner - Emanoel Cariolando" width="100%">
+</div>
 
 # 👨‍💻 Emanoel Cariolando
 
