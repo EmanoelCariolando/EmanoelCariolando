@@ -57,11 +57,6 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/EmanoelCariolando" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
   <!-- Email -->
   <a href="mailto:emanoelcariolando@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
