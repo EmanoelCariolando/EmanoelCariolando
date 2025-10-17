@@ -34,7 +34,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 ## 💡 Sobre mim
 
 - 🔭 Foco atual: **Back-End com Java e Spring Boot**
-- ⚙️ Explorando também: **React e Android**
+- ⚙️ Explorando também: **React e NodeJs**
 - 🎮 Comecei desenvolvendo **mods para jogos**
 - 📚 Sempre buscando novos desafios e aprendizados
 
