@@ -66,4 +66,4 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-⭐ *“Código limpo é como poesia: direto, elegante e fácil de entender.”*
+⭐ *qualquer duvida me contrate ;).”*
