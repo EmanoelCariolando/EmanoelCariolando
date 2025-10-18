@@ -66,4 +66,4 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-⭐ *qualquer duvida me contrate ;).”*
+⭐ *qualquer duvida me contrate ;) ”*
