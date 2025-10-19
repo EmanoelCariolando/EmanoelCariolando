@@ -66,4 +66,4 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-<div align="center"> *qualquer duvida me contrate ;) ”* </div>
+<div align="center"> qualquer duvida me contrate ;) ”*</div>
