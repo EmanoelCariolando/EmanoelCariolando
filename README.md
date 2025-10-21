@@ -40,9 +40,9 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-<div align=center> 📊 Estatísticas</div>
+<div align=center size=50px> 📊 Estatísticas</div>
 
-<div align="center">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&layout=compact&theme=tokyonight" height="165">
 </div>
 
