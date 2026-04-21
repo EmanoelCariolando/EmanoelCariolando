@@ -68,7 +68,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 <p align="center">
   <a href="https://github.com/EmanoelCariolando/loginProject">
-    <img src="newLogin.png" width="300"/>
+    <img src="Loginimg.png" width="300"/>
   </a>
 </p>
 <p align="center">
