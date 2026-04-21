@@ -64,7 +64,11 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <h3 align=center></h3>
 <h3 align=center>🎨 <br/> Projetos <br/> REAIS Na Prática</h3> 
 
-[![Login Project](assets/login.png)](https://github.com/EmanoelCariolando/loginProject)
+<p align="center">
+  <a href="https://github.com/EmanoelCariolando/loginProject">
+    <img src="assets/login.png" width="400"/>
+  </a>
+</p>
 
 <br/>
 <h4 align=center> Projetos Feitos após varios Meses/Anos dedicados a apredizagem sem usar AI como muleta 💪</h4>
