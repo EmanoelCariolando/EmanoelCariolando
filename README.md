@@ -61,8 +61,8 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 </div>
 
 ---
-
-<h3 align=center> 🎨 Projetos </h3> 
+<div>🎨</div>
+<h3 align=center> Projetos </h3> 
 <h3 align=center>Reais Na Prática</h3>
 
 <br/>
