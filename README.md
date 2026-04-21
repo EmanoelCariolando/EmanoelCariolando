@@ -66,7 +66,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 <p align="center">
   <a href="https://github.com/EmanoelCariolando/loginProject">
-    <img src="newd" width="300"/>
+    <img src="newd.png" width="300"/>
   </a>
 </p>
 
