@@ -64,6 +64,8 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <h3 align=center></h3>
 <h3 align=center>🎨 <br/> Projetos <br/> REAIS Na Prática</h3> 
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/EmanoelCariolando/loginProject">
     <img src="newLogin.png" width="300"/>
