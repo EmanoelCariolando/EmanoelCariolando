@@ -63,7 +63,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 ---
 
 <h3 align=center> 🎨 <br/> Projetos </h3> 
-<h2 align=center>Reais Na Prática</h2>
+<h3 align=center>Reais Na Prática</h3>
 
 <br/>
 <h4 align=center> Projetos Feitos após varios Meses/Anos dedicados a apredizagem sem usar AI como muleta 💪</h4>
