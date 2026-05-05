@@ -12,7 +12,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-## <h3> 🚀 Tecnologias e Ferramentas <h3>
+## <h3 align="center"> 🚀 Tecnologias e Ferramentas <h3>
 
 <div align="center">
   
