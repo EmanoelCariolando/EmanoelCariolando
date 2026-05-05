@@ -49,7 +49,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-<h3 align="center">🌐 Entre em Contato! </h3>
+<div align="center">🌐 Entre em Contato! </div>
 <br/>
 <div align="center">
 
