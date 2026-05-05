@@ -14,6 +14,10 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ## <h3 align="center"> 🚀 Tecnologias e Ferramentas <h3>
 
+---
+
+## <h2 align="center"> Back-End <h2>
+
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
