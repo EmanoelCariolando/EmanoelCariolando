@@ -35,7 +35,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 <div align="center">
-## 💡 Sobre mim
+## <h3 align="center">💡 Sobre mim </h3>
 
 - 🔭 Foco atual: **Back-End com Java, Spring Boot com mongoDb + ApiRest**
 - ⚙️ Explorando também: **React e NodeJs**
