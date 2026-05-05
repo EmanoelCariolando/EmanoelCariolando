@@ -37,18 +37,11 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <div align="center">
 <h3 align="center">💡 Sobre mim </h3>
 
-- 🔭 Foco atual: **Back-End com Java, Spring Boot com mongoDb + ApiRest**
-- ⚙️ Explorando também: **React e NodeJs**
-- 🎮 Comecei desenvolvendo **mods para jogos**
-- 📚 Sempre buscando novos desafios e aprendizados.
+🔭 Foco atual: **Back-End com Java, Spring Boot com mongoDb + ApiRest**
+⚙️ Explorando também: **React e NodeJs**
+ 🎮 Comecei desenvolvendo **mods para jogos**
+📚 Sempre buscando novos desafios e aprendizados.
 
-</div>
----
-
-<h3 align=center> 📊 Estatísticas</h3>
-
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCariolando&layout=compact&theme=tokyonight" height="165">
 </div>
 
 ---
