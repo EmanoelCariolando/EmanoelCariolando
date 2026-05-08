@@ -33,9 +33,9 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
  <h3 align="center"> Data-Base <h3>
 
-![Jav](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
