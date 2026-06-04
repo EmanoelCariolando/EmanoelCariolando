@@ -94,7 +94,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
   </a>
 
   <a href="mailto:emanoelcariolando@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email](https://github.com/EmanoelCariolando/portfolio)">
   </a>
 
 </div>
