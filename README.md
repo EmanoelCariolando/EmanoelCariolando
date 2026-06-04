@@ -70,7 +70,7 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
   <b>Sistema de Login com Spring Boot</b>
  </p>
  <p align="center">
-  <a href="[https://github.com/EmanoelCariolando/loginProject](https://github.com/EmanoelCariolando/portfolio)">
+  <a href="https://github.com/EmanoelCariolando/portfolio">
     <img src="porti.png" width="300"/>
   </a>
   <p align="center">
