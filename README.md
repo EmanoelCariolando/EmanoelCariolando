@@ -69,30 +69,34 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 
 ---
 
-
----
 <h3 align="center">🎨 <br/> Projetos <br/> Reais Na Prática</h3>
 
-<br/>
-
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/EmanoelCariolando/loginProject">
-        <img src="Loginimg.png" width="350"/>
-      </a>
-      <br><br>
-      <b>Sistema de Login com Spring Boot</b>
-    </td>
+<tr>
+<td align="center" width="50%">
 
-    <td align="center">
-      <a href="https://github.com/EmanoelCariolando/portfolio">
-        <img src="porti.png" width="350"/>
-      </a>
-      <br><br>
-      <b>Portfólio</b>
-    </td>
-  </tr>
+<a href="https://github.com/EmanoelCariolando/loginProject">
+<img src="./Loginimg.png" width="300">
+</a>
+
+<br><br>
+
+<b>Sistema de Login com Spring Boot</b>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/EmanoelCariolando/portfolio">
+<img src="./porti.png" width="300">
+</a>
+
+<br><br>
+
+<b>Portfólio</b>
+
+</td>
+</tr>
 </table>
 
 
