@@ -72,16 +72,16 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
 <h3 align="center">🎨 <br/> Projetos <br/> Reais Na Prática</h3>
 
 <br/>
-
 <div align="center">
 <table>
-
+<tr>
+<td align="center" width="350px">
   <a href="https://github.com/EmanoelCariolando/loginProject">
     <img src="./Loginimg.png" width="320px" alt="Sistema de Login"/>
   </a>
   <br><br>
   <b>Sistema de Login com Spring Boot</b>
-
+</td>
 
 <td align="center" width="350px">
   <a href="https://github.com/EmanoelCariolando/portfolio">
@@ -89,6 +89,8 @@ Desde **2021**, mergulhei no mundo da programação, começando com o desenvolvi
   </a>
   <br><br>
   <b>Portfólio</b>
+</td>
+</tr>
 </table>
 </div>
 
